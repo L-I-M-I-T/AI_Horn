@@ -1,0 +1,17 @@
+10
+Hate(A,A)
+Hate(A,C)
+~Hate(A,B)
+~Hate(A,x4)|Hate(B,x4)
+~Kill(x1,A)|Hate(x1,A)
+~Hate(A,x2)|~Hate(C,x2)
+~Kill(x6,A)|~Rich(x6,A)
+Rich(x3,A)|Hate(B,x3)
+Kill(A,A)|Kill(B,A)|Kill(C,A)
+~Hate(x5,A)|~Hate(x5,B)|~Hate(x5,C)
+Kill(u,A)
+
+
+
+
+
